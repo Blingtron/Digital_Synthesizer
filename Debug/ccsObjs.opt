@@ -1,0 +1,1 @@
+"./configuration.obj" "./fake_sqr_wave.obj" "./i2c.obj" "./main.obj" "./message_buffer.obj" "./midi.obj" "./startup_msp432p401r_ccs.obj" "./system_msp432p401r.obj" "./uart_put.obj" "./waveform_generator.obj" "../msp432p401r.cmd" -llibc.a 
